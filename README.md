@@ -1,8 +1,10 @@
 # SIA: Symbolic Interpretability for Anticipatory Deep Reinforcement Learning in Network Control
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) ![DOI](https://img.shields.io/badge/DOI-TBD-lightgrey.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) ![DOI](https://img.shields.io/badge/DOI-TBD-lightgrey.svg) [![arXiv](https://img.shields.io/badge/arXiv-2601.22044-b31b1b.svg)](https://arxiv.org/abs/2601.22044)
 
 This repository contains the code and resources for the research paper accepted at **IEEE INFOCOM 2026**:
+
+Paper preprint: https://arxiv.org/abs/2601.22044
 
 > **SIA: Symbolic Interpretability for Anticipatory Deep Reinforcement Learning in Network Control**  
 > *MohammadErfan Jabbari, Abhishek Duttagupta, Claudio Fiandrino, Leonardo Bonati, Salvatore D'Oro, Michele Polese, Marco Fiore, and Tommaso Melodia*  
